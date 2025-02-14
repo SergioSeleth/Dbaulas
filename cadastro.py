@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Função para cadastrar um usuário
-# testando atulização 010
+# testando atulização 020
  def cadastrar_usuario():
     nome = input("Digite seu nome: ")
    email = input("Digite seu e-mail: ")
