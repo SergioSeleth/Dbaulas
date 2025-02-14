@@ -1,8 +1,8 @@
 # Função para cadastrar um usuário
 # testando atulização 002
-def cadastrar_usuario():
-    nome = input("Digite seu nome: ")
-    email = input("Digite seu e-mail: ")
+# def cadastrar_usuario():
+  #  nome = input("Digite seu nome: ")
+   # email = input("Digite seu e-mail: ")
 
     # Salvar os dados em um arquivo
     with open("usuarios.txt", "a") as arquivo:
